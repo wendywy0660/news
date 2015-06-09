@@ -17,7 +17,7 @@ I am assuming that you have all **git, npm and grunt** setup on your machine.
 Clone a copy of the news widget git repo by running:
 
 ```
-git clone https://github.com/wendywy0660/newswidget.git
+git clone https://github.com/wendywy0660/news.git
 ```
 
 Enter the project directory:
