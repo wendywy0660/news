@@ -1,0 +1,100 @@
+{  
+   "feedUrl":"http://feeds.news.com.au/public/rss/2.0/news_national_3354.xml",
+   "title":"News.com.au | National",
+   "link":"http://www.news.com.au/national",
+   "author":"",
+   "description":"National News Headlines and Australian News from around the Nation",
+   "type":"rss20",
+   "entries":[  
+      {  
+         "title":"Rare sea monster washes up on island",
+         "link":"http://www.news.com.au/finance/work/every-six-weeks-an-emergency-services-worker-in-australia-commits-suicide/story-e6frfm9r-1227384228698",
+         "image":"http://resources0.news.com.au/images/2015/06/05/1227384/761104-20518fca-0b1f-11e5-a7cb-854c2b6b7d3b.jpg",
+         "publishedDate":"Thu, 04 Jun 2015 17:46:00 -0700",
+         "contentSnippet":"THE remains of a mysterious serpent-like oarfish that once lived at the bottom of the ocean have washed up on a popular island",
+         "content":"THE remains of a mysterious serpent-like oarfish that once lived at the bottom of the ocean have washed up on a popular island",
+         "Promoted":"90"
+      },
+      {  
+         "title":"Time is ticking for Australia’s first nuclear waste dump",
+         "link":"http://www.news.com.au/national/politics/did-he-really-say-that-anthony-albanese-calls-for-sussan-ley-to-be-smashed/story-fns0jze1-1227384187582",
+         "image":"http://resources0.news.com.au/images/2015/06/05/1227384/589792-9d3d1362-09d8-11e5-aa98-4a5250cbf318.jpg",
+         "publishedDate":"Thu, 04 Jun 2015 17:24:00 -0700",
+         "contentSnippet":"WHEN you hear the words ‘nuclear facility’, Chernobyl and Fukushima spring to mind.",
+         "content":"So it’s no wonder many Aussies baulk at the thought of producing this radioactive material, let alone storing it in our backyard.",
+         "Promoted":"70"
+      },
+      {  
+         "title":"Businessman builds Star Trek office",
+         "link":"http://www.news.com.au/finance/business/star-treks-uss-enterprise-has-arrived-in-china/story-fn5lic6c-1227368952937",
+         "image":"http://resources2.news.com.au/images/2015/05/28/1227372/083362-4652e5c0-041c-11e5-bdd8-9a096bbdd38d.jpg",
+         "publishedDate":"Fri, 05 Jun 2015 16:45:00 -0700",
+         "contentSnippet":"THE USS Enterprise from Star Trek is now a reality following the six-year construction of a building in China.",
+         "content":"Reported by Mashable, the building is the main office of Netdragon Websoft, a Chinese gaming and mobile internet company, and cost an astonishing $A204 million ($US160 million) to construct.",
+         "Promoted":"100"
+      },
+      {  
+         "title":"Taking an Uber is about to get more expensive",
+         "link":"http://www.news.com.au/finance/business/taking-an-uber-is-about-to-get-more-expensive/story-fn5lic6c-1227361649657",
+         "image":"http://resources3.news.com.au/images/2015/05/20/1227361/649631-b72ca530-fe8e-11e4-81ba-84b4afd21d5c.jpg",
+         "publishedDate":"Thu, 04 Jun 2015 16:45:00 -0700",
+         "contentSnippet":"CONTROVERSIAL ride-sharing app Uber is considering legal action to challenge a tax office ruling that requires its drivers to pay GST in line with taxi operators.",
+         "content":"Reported by Mashable, the building is the main office of Netdragon Websoft, a Chinese gaming and mobile internet company, and cost an astonishing $A204 million ($US160 million) to construct.",
+         "Promoted":"85"
+      },
+      {  
+         "title":"Third time lucky with compact M3",
+         "link":"http://www.news.com.au/technology/gadgets/canon-improves-but-doesnt-perfect-its-third-generation-compact-system-camera-the-eos-m3/story-fnda1lbo-1227336072683",
+         "image":"http://resources3.news.com.au/images/2015/05/05/1227336/073575-f6d6f688-f211-11e4-845d-5939ce041631.jpg",
+         "publishedDate":"Thu, 04 Jun 2015 16:45:00 -0700",
+         "contentSnippet":"Canon improves but doesn’t perfect its third-generation compact system camera, the EOS M3",
+         "content":"CANON’S efforts to embrace the compact system camera market are easily summed up: if at first you don’t succeed, try and try again.",
+         "Promoted":"81"
+      },
+      {  
+         "title":"TPG makes $1.4b play for iiNet",
+         "link":"http://www.news.com.au/finance/business/tpg-makes-14b-play-for-iinet/story-fn5lic6c-1227260904878",
+         "image":"http://resources0.news.com.au/images/2015/03/13/1227260/904852-faea2ba0-c903-11e4-8974-d922ece54bbb.jpg",
+         "publishedDate":"Sat, 06 Jun 2015 16:45:00 -0700",
+         "contentSnippet":"INTERNET provider TPG Telecom is set to take over rival iiNet in a deal worth $1.4 billion.",
+         "content":"iiNet’s board of directors has recommended shareholders accept the $8.60 per share offer, which is 33 per cent above the company’s five-day average stock price.The board views this as a significant reward for shareholders who have shown their faith in iiNet, iiNet chairman Michael Smith said.",
+         "Promoted":"67"
+      },
+      {  
+         "title":"Why it’s not the right time for the Apple Watch",
+         "link":"http://www.news.com.au/finance/business/why-its-not-the-right-time-for-the-apple-watch/story-fn5lic6c-1227264481466",
+         "image":"http://resources2.news.com.au/images/2015/03/16/1227264/481962-6da078c0-cb66-11e4-9626-5d9793fb55e0.jpg",
+         "publishedDate":"Thu, 04 Jun 2015 16:45:00 -0700",
+         "contentSnippet":"APPLE released the much-anticipated — and much-hyped — Apple Watch last week, with CEO Tim Cook putting its best face forward.",
+         "content":"Unfortunately for Cook, he never gave us a reason to want or need the gee-whiz gadgetry. When Steve Jobs debuted the iPod, it too was not the first to turn MP3 music into gold — but he made you want that device..",
+         "Promoted":"55"
+      },
+      {  
+         "title":"Chinese tech giant Huawei wants Aussie students",
+         "link":"http://www.news.com.au/finance/business/chinese-tech-giant-huawei-wants-aussie-students/story-fn5lic6c-1227260014903",
+         "image":"http://resources3.news.com.au/images/2015/03/12/1227260/014875-146e3f98-c865-11e4-bdbb-25549bb81a95.jpg",
+         "publishedDate":"Thu, 04 Jun 2015 16:45:00 -0700",
+         "contentSnippet":"CHINESE technology company Huawei is on the hunt for Australian talent. Huawei has teamed up with the Australian Technology Network of Universities (ATN) for a three-year partnership that will see 30 Australian students embark on a Chinese adventure.",
+         "content":"The move is another sign that the company is serious about global engagement as it seeks to increase brand awareness in overseas markets.",
+         "Promoted":"63"
+      },
+      {  
+         "title":"Twitter shares dive following earnings leak",
+         "link":"http://www.news.com.au/finance/business/twitter-shares-dive-following-earnings-leak/story-fn5lic6c-1227326237916",
+         "image":"http://resources2.news.com.au/images/2015/04/29/1227326/240202-91da3a7e-ee01-11e4-a82d-68ff75e6542c.jpg",
+         "publishedDate":"Thu, 04 Jun 2015 16:45:00 -0700",
+         "contentSnippet":"TWITTER shares plunged Tuesday after an earnings report fell short of market expectations, despite a jump in the number of active monthly users above 300 million.",
+         "content":"Revenue during the first three months of this year was $US436 million ($A545 million), Twitter said, but the San Francisco company had been expected to bring in about $US456 million ($A570 million).",
+         "Promoted":"79"
+      },
+      {  
+         "title":"250,000 Tinder prowlers paid for right to unswipe",
+         "link":"http://www.news.com.au/finance/business/tinder-prowlers-paid-for-right-to-unswipe/story-fn5lic6c-1227330757334",
+         "image":"http://resources2.news.com.au/images/2015/05/01/1227330/757306-05969028-ef99-11e4-845d-5939ce041631.jpg",
+         "publishedDate":"Thu, 04 Jun 2015 16:45:00 -0700",
+         "contentSnippet":"UNDOING a swipe on Tinder is a privilege worth paying for.",
+         "content":"That’s what more than 250,000 prowlers across the global dating scene have already decided since the red-hot hook-up app launched a paid version of its service last month, according to numbers released this week.",
+         "Promoted":"65"
+      }
+   ]
+}

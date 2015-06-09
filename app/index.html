@@ -1,0 +1,163 @@
+<!doctype html>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <title>newsfeed</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- build:css(.) styles/vendor.css -->
+    <!-- bower:css -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- build:css(.tmp) styles/main.css -->
+    
+    <link rel="stylesheet" href="styles/jcarousel-customized.css" />
+    <link rel="stylesheet" href="styles/style.css">
+    <!-- endbuild -->
+
+  </head>
+  <body>
+    <!--[if lt IE 10]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <nav class="navbar navbar-inverse">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">News feed</a>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="section-doc">
+        <h3>Demo 1</h3>
+    
+        <div class="demo-1"></div>
+
+        <a class="btn btn-primary" data-toggle="collapse" href="#newsDemo1" aria-expanded="false" aria-controls="newsDemo1">View the configuration</a>
+        <div class="collapse" id="newsDemo1">
+          <div class="well">
+            <code class="language-html" data-lang="html">
+              $('.demo-1').newsBox({'template': 'card-view'});
+            </code>
+          </div>
+        </div>
+      </div><!-- End of section-doc  -->
+
+      <div class="section-doc">
+        <h3>Demo 2</h3>
+    
+        <div class="demo-2"></div>
+
+        <a class="btn btn-primary" data-toggle="collapse" href="#newsDemo2" aria-expanded="false" aria-controls="newsDemo2">View the configuration</a>
+        <div class="collapse" id="newsDemo2">
+          <div class="well">
+            <code class="language-html" data-lang="html">
+              $('.demo-2').newsBox({
+                'template': 'list-view-media',
+                'number': 5,
+                'sortBy': 'priority'
+              });
+            </code>
+          </div>
+        </div>
+      </div><!-- End of section-doc  -->
+
+      <div class="section-doc">
+        <h3>Demo 3</h3>
+    
+        <div class="demo-3"></div>
+
+        <a class="btn btn-primary" data-toggle="collapse" href="#newsDemo3" aria-expanded="false" aria-controls="newsDemo3">View the configuration</a>
+        <div class="collapse" id="newsDemo3">
+          <div class="well">
+            <code class="language-html" data-lang="html">
+              $('.demo-3').newsBox();
+            </code>
+          </div>
+        </div>
+      </div><!-- End of section-doc  -->
+
+      
+      <div class="section-doc">
+        <h3>Demo 4</h3>
+    
+        <div class="demo-4"></div>
+        
+        <a class="btn btn-primary" data-toggle="collapse" href="#newsDemo4" aria-expanded="false" aria-controls="newsDemo4">View the configuration</a>
+        <div class="collapse" id="newsDemo4">
+          <div class="well">
+            <code class="language-html" data-lang="html">
+              $('.demo-4').newsBox({
+                'template': 'list-view',
+                'number': 5,
+                'sortBy': 'priority'
+              });
+            </code>
+          </div>
+        </div>
+      </div><!-- End of section-doc  -->
+
+     
+
+      <div class="section-doc">
+        <h3>Demo 5</h3>
+        <p>Showing the component is responsive and can be fitted into different size container</p>
+        <div class="row">
+          <div class="col-xs-12 col-md-8">
+            <div class="demo-3"></div>
+          </div>
+          <div class="col-xs-12 col-md-4">
+            <div class="demo-4"></div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-12 col-md-8"><div class="demo-1"></div></div>
+        </div>
+      </div><!-- End of section-doc  -->
+
+    </div><!-- /.container -->
+
+    <!-- build:js(.) scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/handlebars/handlebars.js"></script>
+    <script src="bower_components/jcarousel/dist/jquery.jcarousel.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='//www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-XXXXX-X');ga('send','pageview');
+    </script>
+
+        <!-- build:js(.) scripts/plugins.js -->
+        <script src="bower_components/bootstrap/js/collapse.js"></script>
+        <!-- endbuild -->
+
+        <!-- build:js({app,.tmp}) scripts/main.js -->
+
+        <script src="scripts/NewsService.js"></script>
+        <script src="scripts/WidgetFactory.js"></script>
+        <script src="scripts/Widget.js"></script>
+        <script src="scripts/newsBox.js"></script>
+        <script src="scripts/main.js"></script>
+        <!-- endbuild -->
+</body>
+</html>
